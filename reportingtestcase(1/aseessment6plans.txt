@@ -1,0 +1,28 @@
+WEBSITE - dueling duo bots
+Local host 3000-this is currently the best link for website: localhost:3000
+running on macmini running monterey version 12.5
+todays date
+
+PROJECT
+“Robot Dueling”
+TEST PLAN
+The test should be ran on both safari and chrome. Ideally with updated versions.
+Primary overview needs to verify that the app is functioning as designed.
+Run through a series of battles
+Picking Robot 1
+Picking Robot 2
+Running battle
+Checking for winner
+Checking for loser
+Making sure points allocate properly:
+Winner = winner, Loser = Loser
+Proper Tally
+Download the project, locally. 
+Nodemon Will help verify
+Chrome to load project.
+Mobile version
+Not Checked for.
+I'd probably go through each robot, checking to see if they can duel all the others.
+
+
+

@@ -1,0 +1,15 @@
+TESTing Cases(1/10)
+The first of many test: will check to see if you can choose two different robots. 
+todays date
+Steps:
+Open website( local host:3000)
+Click first bot that populates
+Click the second bot that populates
+
+Techinically
+Website opens
+Bot (a) is clickable
+Bot (b) is clickable. 
+
+Travis.
+

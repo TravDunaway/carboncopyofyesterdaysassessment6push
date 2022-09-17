@@ -1,0 +1,20 @@
+Report: 
+todays date
+Testing for case 1/10
+no adding paperwork/attachments
+Bug Reporting:
+
+i'm testing it on a macmini running monterey version 12.5
+the test willl be ran in both in safari Version 15.6 (17613.3.9.1.5), and chrome version 105.0.5195.125 
+
+The first two bot options are to be clicked on, and then subsequently "dueled."
+First task: localhost:3000
+click the draw button
+then click button "add to due" with the correspondibgnn bot named brobot
+then click button "add to due" with the correspondibgnn botSelf-Aware Garbage Android
+then click the duel button
+
+Expectations: Knowing what ive seen, i expect the bots to battle, but to not log the score correctly.
+the other expectation i have is that bot duel will run properly, i guess that is a bit of a redundancy on my part.
+
+
